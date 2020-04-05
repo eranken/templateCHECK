@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Data and Monte Carlo \(MC\) Samples}{}% 2
+\BOOKMARK [1][-]{section.3}{Event Selection}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Trigger}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Leptons}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Jets and b-jet identification}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Additional Corrections}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{Event yields \046 background estimation}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Event Reconstruction}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{b-jet pairing}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Comparison of distributions from data to \046 Monte Carlo prediction}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Sensitivity after reconstruction}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Measurement Strategy and Statistical Methods}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Definitions involving EW corrections}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Implementation of EW corrections}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{Statistical treatment in Combine}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Sources of uncertainty}{}% 17
+\BOOKMARK [2][-]{subsection.6.1}{Experimental uncertainty sources}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.2}{Theoretical uncertainty sources}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.3}{Pre-fit processing of systematics}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.4}{Correlation of systematics across run 2 datasets}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.5}{Implementation of partial correlations using Combine statistics package}{section.6}% 22
+\BOOKMARK [1][-]{section.7}{Sensitivity Study}{}% 23
+\BOOKMARK [1][-]{appendix.A}{Bin sensitivities to EW corrections}{}% 24
+\BOOKMARK [1][-]{appendix.B}{systematic template plots}{}% 25
+\BOOKMARK [1][-]{appendix.C}{Additional Impacts}{}% 26

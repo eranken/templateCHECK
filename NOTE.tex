@@ -1,0 +1,95 @@
+%\RCS$Revision: 457753 $
+%\RCS$HeadURL: svn+ssh://hindrich@svn.cern.ch/reps/tdr2/papers/TOP-17-002/trunk/TOP-17-002.tex %
+%\RCS$Id: TOP-17-002.tex 457753 2018-04-30 13:37:49Z hindrich $
+\newlength\cmsFigWidth
+\ifthenelse{\boolean{cms@external}}{\setlength\cmsFigWidth{0.98\columnwidth}}{\setlength\cmsFigWidth{0.4\textwidth}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsLeft}{upper\xspace}}{\providecommand{\cmsLeft}{left\xspace}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsRight}{lower\xspace}}{\providecommand{\cmsRight}{right\xspace}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsLLeft}{Upper\xspace}}{\providecommand{\cmsLLeft}{Left\xspace}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsRRight}{Lower\xspace}}{\providecommand{\cmsRRight}{Right\xspace}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsTable}[1]{\relax#1}}{\providecommand{\cmsTable}[1]{\resizebox{\textwidth}{!}{#1}}}
+
+\newlength\cmsTabSkip\setlength{\cmsTabSkip}{1ex}
+
+\ifthenelse{\boolean{cms@external}}
+{
+\newcommand{\SmallFIG}[1]{\includegraphics[width=0.32\textwidth]{#1}}
+}
+{
+\newcommand{\SmallFIG}[1]{\includegraphics[width=0.33\textwidth]{#1}}
+}
+
+\newcommand{\FIG}[1]{Fig.~\ref{#1}\xspace}
+\newcommand{\TAB}[1]{Table~\ref{#1}\xspace}
+\newcommand{\tqh}{\ensuremath{\PQt_\mathrm{h}}\xspace}
+\newcommand{\tqhard}{\ensuremath{\PQt_\mathrm{hard}}\xspace}
+\newcommand{\tqsoft}{\ensuremath{\PQt_\mathrm{soft}}\xspace}
+\newcommand{\tql}{\ensuremath{\PQt_\ell}\xspace}
+\newcommand{\Jbl}{\ensuremath{\PQb_\ell}\xspace}
+\newcommand{\Jbh}{\ensuremath{\PQb_\mathrm{h}}\xspace}
+\newcommand{\JWa}{\ensuremath{\mathrm{j}_{\PW1}}\xspace}
+\newcommand{\JWb}{\ensuremath{\mathrm{j}_{\PW2}}\xspace}
+\newcommand{\Jadda}{\ensuremath{\mathrm{j}_\mathrm{1}}\xspace}
+\newcommand{\Jaddb}{\ensuremath{\mathrm{j}_\mathrm{2}}\xspace}
+\newcommand{\Jaddc}{\ensuremath{\mathrm{j}_\mathrm{3}}\xspace}
+\newcommand{\Jaddd}{\ensuremath{\mathrm{j}_\mathrm{4}}\xspace}
+\newcommand{\pp}{\ensuremath{\Pp\Pp}\xspace}
+
+\newcommand{\Mtop}{\ensuremath{m_\PQt}\xspace}
+\newcommand{\mt}{\ensuremath{m_\mathrm{T}}\xspace}
+\newcommand{\mur}{\ensuremath{\mu_\mathrm{r}}\xspace}
+\newcommand{\muf}{\ensuremath{\mu_\mathrm{f}}\xspace}
+\newcommand{\MW}{\ensuremath{m_{\PW}}\xspace}
+\newcommand{\Pmass}{\ensuremath{P_\mathrm{m}}\xspace}
+\newcommand{\W}{\ensuremath{\PW}\xspace}
+\newcommand{\lpj}{\ensuremath{\ell\text{+jets}}\xspace}
+\newcommand{\Dn}{\ensuremath{D_{\nu,\text{min}}}\xspace}
+\newcommand{\DRtopjets}{\ensuremath{\Delta R_{\mathrm{j}_\PQt}}\xspace}
+\newcommand{\DRtop}{\ensuremath{\Delta R_{\PQt}}\xspace}
+\newcolumntype{x}{D{,}{\text{--}}{4.5}}
+
+\newcommand{\AMCATNLO}{\textsc{mg}5\_\text{a}\textsc{mc@nlo}\xspace}
+\newcommand{\PYTHIAA}{\textsc{pythia}8\xspace}
+\newcommand{\OPENLOOPS}{\textsc{OpenLoops}\xspace}
+
+\newcommand{\ttb}{\ensuremath{\mathrm{t\bar{t}}}\xspace}
+\newcommand{\Mbl}{\ensuremath{M_\mathrm{bl}}\xspace}
+\newcommand{\yt}{\ensuremath{Y_\mathrm{t}}\xspace}
+\newcommand{\DYbl}{\ensuremath{\Delta y_\mathrm{bl}}\xspace}
+\newcommand{\absDybl}{\ensuremath{|\Delta y|_\mathrm{bl}}\xspace}
+
+
+%\widowpenalty=500
+%\clubpenalty=500
+
+\cmsNoteHeader{AN-2019/236}
+
+\title{Measuring the top quark Yukawa coupling using kinematics of \ttbar dilepton decays at $\sqrt{s}=13\TeV$}
+
+\author{Evan Ranken, Otto Hindrichs, Regina Demina}
+
+\address{University of Rochester, US}
+
+\date{\today}
+
+\abstract{We present an indirect measurement of the top-Higgs Yukawa coupling using the kinematic distributions of $\mathrm{t\bar{t}}$ decay products in the dilepton final state. This analysis follows the methods used with semi-leptonic decays from the 2016 dataset in TOP-17-004, adapting them to a new decay channel and utilizing full run 2 data.  Sensitivity to the Yukawa coupling comes from shape distortions in the kinematics of the top quark and antiquark due to the virtual exchange of a Higgs boson. The expected shape distortions are computed using electroweak diagrams as interference terms via the HATHOR package. Measurements are presented in terms the dimensionless parameter $\yt$, which is the ratio of the measured Yukawa coupling to the standard model value. We measure a best-fit value of $\yt=1.18^{+0.22}_{-0.27}$ and a 95\% confidence interval of $\yt\in\,[0.3, \,1.61] $.
+}
+
+\hypersetup{
+pdfauthor={Evan Ranken, Otto Hindrichs, Regina Demina},
+pdftitle={Measuring top Yukawa from tt kinematic distributions in the dilepton channel},
+pdfsubject={CMS},
+pdfkeywords={CMS, top quark pairs, yukawa coupling}
+}
+
+\maketitle
+
+\tableofcontents
+
+\input{text.tex}
+
+\clearpage
+
+\bibliography{auto_generated}
+
+

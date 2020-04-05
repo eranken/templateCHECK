@@ -1,0 +1,2522 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.3.1)  17 DEC 2019 23:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**local.tex
+(./local.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./cmspaper.cls
+CMS paper style Version <0.4>, <25 Nov. 1996>
+based on Document Style 'CERNART' Version <2.1>, <1 May 1995>
+Document Class: cmspaper 1996/11/25
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\c@instfoot=\count87
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/13 v1.2b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/17 v1.0e Graphics/color driver for pdftex
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen105
+)
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count100
+\output=\toks21
+\linenoprevgraf=\count101
+\linenumbersep=\dimen114
+\linenumberwidth=\dimen115
+\c@linenumber=\count102
+\c@pagewiselinenumber=\count103
+\c@LN@truepage=\count104
+\c@internallinenumber=\count105
+\c@internallinenumbers=\count106
+\quotelinenumbersep=\dimen116
+\bframerule=\dimen117
+\bframesep=\dimen118
+\bframebox=\box28
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen119
+\Hy@linkcounter=\count107
+\Hy@pagecounter=\count108
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count109
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count110
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen120
+\Fld@menulength=\count111
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count112
+\c@Item=\count113
+\c@Hfootnote=\count114
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count115
+\c@bookmark@seq@number=\count116
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2017/05/24 v1.19 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count117
+\calc@Bcount=\count118
+\calc@Adimen=\dimen123
+\calc@Bdimen=\dimen124
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count119
+\calc@Cskip=\skip49
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count120
+\l_MT_multwidth_dim=\dimen125
+\origjot=\skip50
+\l_MT_shortvdotswithinadjustabove_dim=\dimen126
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen127
+\l_MT_above_intertext_sep=\dimen128
+\l_MT_below_intertext_sep=\dimen129
+\l_MT_above_shortintertext_sep=\dimen130
+\l_MT_below_shortintertext_sep=\dimen131
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count121
+) (./local.aux)
+\openout1 = `local.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 55.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen132
+\scratchbox=\box29
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen133
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring OFF on input line 55.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
+
+(./local.out) (./local.out)
+\@outlinefile=\write3
+\openout3 = `local.out'.
+
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 57.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 57.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 57.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+ (./local.toc
+Overfull \hbox (6.9652pt too wide) in paragraph at lines 22--22
+ [][] [][]\OT1/ptm/m/n/12 Implementation of par-tial cor-re-la-tions us-ing Com
+-bine statis-tics pack- 
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `local.toc'.
+
+ (./text.tex [2
+
+]
+<figs/quarkgluon.png, id=158, 1753.55125pt x 400.49625pt>
+File: figs/quarkgluon.png Graphic file (type png)
+<use figs/quarkgluon.png>
+Package pdftex.def Info: figs/quarkgluon.png  used on input line 10. on input l
+ine 10.
+Package pdftex.def Info: Requested size: 386.96024pt x 88.37833pt on input line
+ 10.
+<figs/ratMttgen.pdf, id=159, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/ratMttgen.pdf Graphic file (type pdf)
+<use figs/ratMttgen.pdf>
+Package pdftex.def Info: figs/ratMttgen.pdf  used on input line 17. on input li
+ne 17.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 17.
+<figs/ratDyttgen.pdf, id=160, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/ratDyttgen.pdf Graphic file (type pdf)
+<use figs/ratDyttgen.pdf>
+Package pdftex.def Info: figs/ratDyttgen.pdf  used on input line 18. on input l
+ine 18.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 18.
+ [3 <./figs/quarkgluon.png>] [4 <./figs/ratMttgen.pdf, page is rotated 90 degre
+es> <./figs/ratDyttgen.pdf, page is rotated 90 degrees>]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 46.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 84.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 112.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 137.
+
+[5
+
+] [6] [7]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 173.
+
+Overfull \hbox (0.83408pt too wide) in paragraph at lines 176--177
+\OT1/ptm/m/n/12 2016/2017/2018 re-spec-tively. Elec-trons are se-lected with HL
+T[]Ele27[]WPTight[]Gsf
+ []
+
+[8
+
+]
+Overfull \hbox (70.81834pt too wide) in paragraph at lines 196--197
+\OT1/ptm/m/n/12 ver-tex are ex-cluded. Jet en-ergy/resolution cor-rec-tions are
+ ap-plied: \OT1/pcr/m/n/12 Summer16[]07Aug2017[]V11
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+\OT1/ptm/m/n/12 2017, and \OT1/pcr/m/n/12 Autumn18[]RunX[]V19 \OT1/ptm/m/n/12 /
+ 
+ []
+
+[9]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 229.
+
+[10] [11]
+<figs/ttbar3.png, id=344, 566.115pt x 425.1885pt>
+File: figs/ttbar3.png Graphic file (type png)
+<use figs/ttbar3.png>
+Package pdftex.def Info: figs/ttbar3.png  used on input line 278. on input line
+ 278.
+Package pdftex.def Info: Requested size: 227.62204pt x 170.95473pt on input lin
+e 278.
+ [12
+
+ <./figs/ttbar3.png>]
+<figs/bars_right.pdf, id=358, pagebox=cropbox, 808.01875pt x 582.175pt>
+File: figs/bars_right.pdf Graphic file (type pdf)
+<use figs/bars_right.pdf>
+Package pdftex.def Info: figs/bars_right.pdf  used on input line 321. on input 
+line 321.
+Package pdftex.def Info: Requested size: 218.51521pt x 157.43808pt on input lin
+e 321.
+<figs/bars_swap.pdf, id=359, pagebox=cropbox, 808.01875pt x 582.175pt>
+File: figs/bars_swap.pdf Graphic file (type pdf)
+<use figs/bars_swap.pdf>
+Package pdftex.def Info: figs/bars_swap.pdf  used on input line 322. on input l
+ine 322.
+Package pdftex.def Info: Requested size: 218.51521pt x 157.43808pt on input lin
+e 322.
+ [13]
+<figs/ratMblgen.pdf, id=374, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/ratMblgen.pdf Graphic file (type pdf)
+<use figs/ratMblgen.pdf>
+Package pdftex.def Info: figs/ratMblgen.pdf  used on input line 337. on input l
+ine 337.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 337.
+<figs/ratDyblgen.pdf, id=375, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/ratDyblgen.pdf Graphic file (type pdf)
+<use figs/ratDyblgen.pdf>
+Package pdftex.def Info: figs/ratDyblgen.pdf  used on input line 338. on input 
+line 338.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 338.
+<figs/ratMblgen_rel.pdf, id=376, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/ratMblgen_rel.pdf Graphic file (type pdf)
+<use figs/ratMblgen_rel.pdf>
+Package pdftex.def Info: figs/ratMblgen_rel.pdf  used on input line 339. on inp
+ut line 339.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 339.
+<figs/ratDyblgen_rel.pdf, id=377, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/ratDyblgen_rel.pdf Graphic file (type pdf)
+<use figs/ratDyblgen_rel.pdf>
+Package pdftex.def Info: figs/ratDyblgen_rel.pdf  used on input line 340. on in
+put line 340.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 340.
+<figs/ratMblrec_rel.pdf, id=378, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/ratMblrec_rel.pdf Graphic file (type pdf)
+<use figs/ratMblrec_rel.pdf>
+Package pdftex.def Info: figs/ratMblrec_rel.pdf  used on input line 347. on inp
+ut line 347.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 347.
+<figs/ratDyblrec_rel.pdf, id=379, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/ratDyblrec_rel.pdf Graphic file (type pdf)
+<use figs/ratDyblrec_rel.pdf>
+Package pdftex.def Info: figs/ratDyblrec_rel.pdf  used on input line 348. on in
+put line 348.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 348.
+<control/16_all_Njets.pdf, id=382, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/16_all_Njets.pdf Graphic file (type pdf)
+<use control/16_all_Njets.pdf>
+Package pdftex.def Info: control/16_all_Njets.pdf  used on input line 356. on i
+nput line 356.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 356.
+<control/16_all_MET.pdf, id=383, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/16_all_MET.pdf Graphic file (type pdf)
+<use control/16_all_MET.pdf>
+Package pdftex.def Info: control/16_all_MET.pdf  used on input line 357. on inp
+ut line 357.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 357.
+<control/16_all_lep_pt.pdf, id=384, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/16_all_lep_pt.pdf Graphic file (type pdf)
+<use control/16_all_lep_pt.pdf>
+Package pdftex.def Info: control/16_all_lep_pt.pdf  used on input line 358. on 
+input line 358.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 358.
+<control/16_all_bj_Pt.pdf, id=385, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/16_all_bj_Pt.pdf Graphic file (type pdf)
+<use control/16_all_bj_Pt.pdf>
+Package pdftex.def Info: control/16_all_bj_Pt.pdf  used on input line 359. on i
+nput line 359.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 359.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<control/17_all_Njets.pdf, id=386, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/17_all_Njets.pdf Graphic file (type pdf)
+<use control/17_all_Njets.pdf>
+Package pdftex.def Info: control/17_all_Njets.pdf  used on input line 376. on i
+nput line 376.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 376.
+<control/17_all_MET.pdf, id=387, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/17_all_MET.pdf Graphic file (type pdf)
+<use control/17_all_MET.pdf>
+Package pdftex.def Info: control/17_all_MET.pdf  used on input line 377. on inp
+ut line 377.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 377.
+<control/17_all_lep_pt.pdf, id=388, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/17_all_lep_pt.pdf Graphic file (type pdf)
+<use control/17_all_lep_pt.pdf>
+Package pdftex.def Info: control/17_all_lep_pt.pdf  used on input line 378. on 
+input line 378.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 378.
+<control/17_all_bj_Pt.pdf, id=389, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/17_all_bj_Pt.pdf Graphic file (type pdf)
+<use control/17_all_bj_Pt.pdf>
+Package pdftex.def Info: control/17_all_bj_Pt.pdf  used on input line 379. on i
+nput line 379.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 379.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<control/18_all_Njets.pdf, id=390, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/18_all_Njets.pdf Graphic file (type pdf)
+<use control/18_all_Njets.pdf>
+Package pdftex.def Info: control/18_all_Njets.pdf  used on input line 396. on i
+nput line 396.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 396.
+<control/18_all_MET.pdf, id=391, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/18_all_MET.pdf Graphic file (type pdf)
+<use control/18_all_MET.pdf>
+Package pdftex.def Info: control/18_all_MET.pdf  used on input line 397. on inp
+ut line 397.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 397.
+<control/18_all_lep_pt.pdf, id=392, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/18_all_lep_pt.pdf Graphic file (type pdf)
+<use control/18_all_lep_pt.pdf>
+Package pdftex.def Info: control/18_all_lep_pt.pdf  used on input line 398. on 
+input line 398.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 398.
+<control/18_all_bj_Pt.pdf, id=393, pagebox=cropbox, 569.12625pt x 407.5225pt>
+File: control/18_all_bj_Pt.pdf Graphic file (type pdf)
+<use control/18_all_bj_Pt.pdf>
+Package pdftex.def Info: control/18_all_bj_Pt.pdf  used on input line 399. on i
+nput line 399.
+Package pdftex.def Info: Requested size: 200.3085pt x 143.43094pt on input line
+ 399.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14 <./figs/bars_right.pdf> <./figs/bars_swap.pdf
+
+pdfTeX warning: pdflatex (file ./figs/bars_swap.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+>] [15 <./figs/ratMblgen.pdf, page is rotated 90 degrees> <./figs/ratDyblgen.pd
+f, page is rotated 90 degrees> <./figs/ratMblgen_rel.pdf, page is rotated 90 de
+grees> <./figs/ratDyblgen_rel.pdf, page is rotated 90 degrees> <./figs/ratMblre
+c_rel.pdf, page is rotated 90 degrees> <./figs/ratDyblrec_rel.pdf, page is rota
+ted 90 degrees>] [16 <./control/16_all_Njets.pdf, page is rotated 90 degrees> <
+./control/16_all_MET.pdf, page is rotated 90 degrees> <./control/16_all_lep_pt.
+pdf, page is rotated 90 degrees> <./control/16_all_bj_Pt.pdf, page is rotated 9
+0 degrees> <./control/17_all_Njets.pdf, page is rotated 90 degrees> <./control/
+17_all_MET.pdf, page is rotated 90 degrees> <./control/17_all_lep_pt.pdf, page 
+is rotated 90 degrees> <./control/17_all_bj_Pt.pdf, page is rotated 90 degrees>
+] [17 <./control/18_all_Njets.pdf, page is rotated 90 degrees> <./control/18_al
+l_MET.pdf, page is rotated 90 degrees> <./control/18_all_lep_pt.pdf, page is ro
+tated 90 degrees> <./control/18_all_bj_Pt.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Citation `pagani2016photon' on page 18 undefined on input line 4
+54.
+
+[18
+
+]
+<figs/NOM.png, id=1248, 1051.93pt x 860.21375pt>
+File: figs/NOM.png Graphic file (type png)
+<use figs/NOM.png>
+Package pdftex.def Info: figs/NOM.png  used on input line 497. on input line 49
+7.
+Package pdftex.def Info: Requested size: 318.66946pt x 260.58626pt on input lin
+e 497.
+ [19] [20 <./figs/NOM.png>]
+<quadplots/2017bin1.pdf, id=1275, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin1.pdf Graphic file (type pdf)
+<use quadplots/2017bin1.pdf>
+Package pdftex.def Info: quadplots/2017bin1.pdf  used on input line 541. on inp
+ut line 541.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 541.
+<quadplots/2017bin16.pdf, id=1276, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin16.pdf Graphic file (type pdf)
+<use quadplots/2017bin16.pdf>
+Package pdftex.def Info: quadplots/2017bin16.pdf  used on input line 542. on in
+put line 542.
+Package pdftex.def Info: Requested size: 218.51521pt x 147.60658pt on input lin
+e 542.
+ [21 <./quadplots/2017bin1.pdf, page is rotated 90 degrees> <./quadplots/2017bi
+n16.pdf, page is rotated 90 degrees>] [22
+
+]
+[23]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 646.
+ [24]
+<templates/yuk.pdf, id=1405, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/yuk.pdf Graphic file (type pdf)
+<use templates/yuk.pdf>
+Package pdftex.def Info: templates/yuk.pdf  used on input line 680. on input li
+ne 680.
+Package pdftex.def Info: Requested size: 364.19664pt x 397.6158pt on input line
+ 680.
+ [25] [26 <./templates/yuk.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 724.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 724.
+ [27]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (3.24504pt too wide) in paragraph at lines 784--784
+[]\OT1/ptm/b/n/14.4 Implementation of par-tial cor-re-la-tions us-ing Com-bine 
+statis-
+ []
+
+[28] [29] [30]
+
+LaTeX Warning: Reference `scan' on page 31 undefined on input line 819.
+
+[31
+
+]
+
+pdfTeX warning: pdflatex (file ./figs/impacts1.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<figs/impacts1.pdf, id=1515, pagebox=cropbox, 569.12625pt x 467.7475pt>
+File: figs/impacts1.pdf Graphic file (type pdf)
+<use figs/impacts1.pdf>
+Package pdftex.def Info: figs/impacts1.pdf  used on input line 854. on input li
+ne 854.
+Package pdftex.def Info: Requested size: 446.13725pt x 366.68297pt on input lin
+e 854.
+<figs/pessimistic.pdf, id=1518, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/pessimistic.pdf Graphic file (type pdf)
+<use figs/pessimistic.pdf>
+Package pdftex.def Info: figs/pessimistic.pdf  used on input line 863. on input
+ line 863.
+Package pdftex.def Info: Requested size: 223.0721pt x 150.68037pt on input line
+ 863.
+<figs/optimistic.pdf, id=1519, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: figs/optimistic.pdf Graphic file (type pdf)
+<use figs/optimistic.pdf>
+Package pdftex.def Info: figs/optimistic.pdf  used on input line 864. on input 
+line 864.
+Package pdftex.def Info: Requested size: 223.0721pt x 150.68037pt on input line
+ 864.
+[32 <./figs/impacts1.pdf, page is rotated 90 degrees>] [33 <./figs/pessimistic.
+pdf, page is rotated 90 degrees> <./figs/optimistic.pdf, page is rotated 90 deg
+rees>]
+<quadplots/2016bin1.pdf, id=1659, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin1.pdf Graphic file (type pdf)
+<use quadplots/2016bin1.pdf>
+Package pdftex.def Info: quadplots/2016bin1.pdf  used on input line 876. on inp
+ut line 876.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 876.
+<quadplots/2016bin2.pdf, id=1660, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin2.pdf Graphic file (type pdf)
+<use quadplots/2016bin2.pdf>
+Package pdftex.def Info: quadplots/2016bin2.pdf  used on input line 877. on inp
+ut line 877.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 877.
+<quadplots/2016bin3.pdf, id=1661, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin3.pdf Graphic file (type pdf)
+<use quadplots/2016bin3.pdf>
+Package pdftex.def Info: quadplots/2016bin3.pdf  used on input line 878. on inp
+ut line 878.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 878.
+<quadplots/2016bin4.pdf, id=1662, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin4.pdf Graphic file (type pdf)
+<use quadplots/2016bin4.pdf>
+Package pdftex.def Info: quadplots/2016bin4.pdf  used on input line 879. on inp
+ut line 879.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 879.
+<quadplots/2016bin5.pdf, id=1663, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin5.pdf Graphic file (type pdf)
+<use quadplots/2016bin5.pdf>
+Package pdftex.def Info: quadplots/2016bin5.pdf  used on input line 880. on inp
+ut line 880.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 880.
+<quadplots/2016bin6.pdf, id=1664, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin6.pdf Graphic file (type pdf)
+<use quadplots/2016bin6.pdf>
+Package pdftex.def Info: quadplots/2016bin6.pdf  used on input line 881. on inp
+ut line 881.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 881.
+<quadplots/2016bin7.pdf, id=1665, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin7.pdf Graphic file (type pdf)
+<use quadplots/2016bin7.pdf>
+Package pdftex.def Info: quadplots/2016bin7.pdf  used on input line 882. on inp
+ut line 882.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 882.
+<quadplots/2016bin8.pdf, id=1666, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin8.pdf Graphic file (type pdf)
+<use quadplots/2016bin8.pdf>
+Package pdftex.def Info: quadplots/2016bin8.pdf  used on input line 883. on inp
+ut line 883.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 883.
+<quadplots/2016bin9.pdf, id=1667, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin9.pdf Graphic file (type pdf)
+<use quadplots/2016bin9.pdf>
+Package pdftex.def Info: quadplots/2016bin9.pdf  used on input line 884. on inp
+ut line 884.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 884.
+<quadplots/2016bin10.pdf, id=1668, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin10.pdf Graphic file (type pdf)
+<use quadplots/2016bin10.pdf>
+Package pdftex.def Info: quadplots/2016bin10.pdf  used on input line 885. on in
+put line 885.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 885.
+<quadplots/2016bin11.pdf, id=1669, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin11.pdf Graphic file (type pdf)
+<use quadplots/2016bin11.pdf>
+Package pdftex.def Info: quadplots/2016bin11.pdf  used on input line 886. on in
+put line 886.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 886.
+<quadplots/2016bin12.pdf, id=1670, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin12.pdf Graphic file (type pdf)
+<use quadplots/2016bin12.pdf>
+Package pdftex.def Info: quadplots/2016bin12.pdf  used on input line 887. on in
+put line 887.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 887.
+<quadplots/2016bin13.pdf, id=1671, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin13.pdf Graphic file (type pdf)
+<use quadplots/2016bin13.pdf>
+Package pdftex.def Info: quadplots/2016bin13.pdf  used on input line 888. on in
+put line 888.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 888.
+<quadplots/2016bin14.pdf, id=1672, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin14.pdf Graphic file (type pdf)
+<use quadplots/2016bin14.pdf>
+Package pdftex.def Info: quadplots/2016bin14.pdf  used on input line 889. on in
+put line 889.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 889.
+<quadplots/2016bin15.pdf, id=1673, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin15.pdf Graphic file (type pdf)
+<use quadplots/2016bin15.pdf>
+Package pdftex.def Info: quadplots/2016bin15.pdf  used on input line 890. on in
+put line 890.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 890.
+<quadplots/2016bin16.pdf, id=1674, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin16.pdf Graphic file (type pdf)
+<use quadplots/2016bin16.pdf>
+Package pdftex.def Info: quadplots/2016bin16.pdf  used on input line 891. on in
+put line 891.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 891.
+<quadplots/2016bin17.pdf, id=1675, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2016bin17.pdf Graphic file (type pdf)
+<use quadplots/2016bin17.pdf>
+Package pdftex.def Info: quadplots/2016bin17.pdf  used on input line 892. on in
+put line 892.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 892.
+File: quadplots/2017bin1.pdf Graphic file (type pdf)
+<use quadplots/2017bin1.pdf>
+Package pdftex.def Info: quadplots/2017bin1.pdf  used on input line 898. on inp
+ut line 898.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 898.
+<quadplots/2017bin2.pdf, id=1676, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin2.pdf Graphic file (type pdf)
+<use quadplots/2017bin2.pdf>
+Package pdftex.def Info: quadplots/2017bin2.pdf  used on input line 899. on inp
+ut line 899.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 899.
+<quadplots/2017bin3.pdf, id=1677, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin3.pdf Graphic file (type pdf)
+<use quadplots/2017bin3.pdf>
+Package pdftex.def Info: quadplots/2017bin3.pdf  used on input line 900. on inp
+ut line 900.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 900.
+<quadplots/2017bin4.pdf, id=1678, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin4.pdf Graphic file (type pdf)
+<use quadplots/2017bin4.pdf>
+Package pdftex.def Info: quadplots/2017bin4.pdf  used on input line 901. on inp
+ut line 901.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 901.
+<quadplots/2017bin5.pdf, id=1679, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin5.pdf Graphic file (type pdf)
+<use quadplots/2017bin5.pdf>
+Package pdftex.def Info: quadplots/2017bin5.pdf  used on input line 902. on inp
+ut line 902.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 902.
+<quadplots/2017bin6.pdf, id=1680, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin6.pdf Graphic file (type pdf)
+<use quadplots/2017bin6.pdf>
+Package pdftex.def Info: quadplots/2017bin6.pdf  used on input line 903. on inp
+ut line 903.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 903.
+<quadplots/2017bin7.pdf, id=1681, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin7.pdf Graphic file (type pdf)
+<use quadplots/2017bin7.pdf>
+Package pdftex.def Info: quadplots/2017bin7.pdf  used on input line 904. on inp
+ut line 904.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 904.
+<quadplots/2017bin8.pdf, id=1682, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin8.pdf Graphic file (type pdf)
+<use quadplots/2017bin8.pdf>
+Package pdftex.def Info: quadplots/2017bin8.pdf  used on input line 905. on inp
+ut line 905.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 905.
+<quadplots/2017bin9.pdf, id=1683, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin9.pdf Graphic file (type pdf)
+<use quadplots/2017bin9.pdf>
+Package pdftex.def Info: quadplots/2017bin9.pdf  used on input line 906. on inp
+ut line 906.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 906.
+<quadplots/2017bin10.pdf, id=1684, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin10.pdf Graphic file (type pdf)
+<use quadplots/2017bin10.pdf>
+Package pdftex.def Info: quadplots/2017bin10.pdf  used on input line 907. on in
+put line 907.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 907.
+<quadplots/2017bin11.pdf, id=1685, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin11.pdf Graphic file (type pdf)
+<use quadplots/2017bin11.pdf>
+Package pdftex.def Info: quadplots/2017bin11.pdf  used on input line 908. on in
+put line 908.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 908.
+<quadplots/2017bin12.pdf, id=1686, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin12.pdf Graphic file (type pdf)
+<use quadplots/2017bin12.pdf>
+Package pdftex.def Info: quadplots/2017bin12.pdf  used on input line 909. on in
+put line 909.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 909.
+<quadplots/2017bin13.pdf, id=1687, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin13.pdf Graphic file (type pdf)
+<use quadplots/2017bin13.pdf>
+Package pdftex.def Info: quadplots/2017bin13.pdf  used on input line 910. on in
+put line 910.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 910.
+<quadplots/2017bin14.pdf, id=1688, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin14.pdf Graphic file (type pdf)
+<use quadplots/2017bin14.pdf>
+Package pdftex.def Info: quadplots/2017bin14.pdf  used on input line 911. on in
+put line 911.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 911.
+<quadplots/2017bin15.pdf, id=1689, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin15.pdf Graphic file (type pdf)
+<use quadplots/2017bin15.pdf>
+Package pdftex.def Info: quadplots/2017bin15.pdf  used on input line 912. on in
+put line 912.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 912.
+File: quadplots/2017bin16.pdf Graphic file (type pdf)
+<use quadplots/2017bin16.pdf>
+Package pdftex.def Info: quadplots/2017bin16.pdf  used on input line 913. on in
+put line 913.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 913.
+<quadplots/2017bin17.pdf, id=1690, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2017bin17.pdf Graphic file (type pdf)
+<use quadplots/2017bin17.pdf>
+Package pdftex.def Info: quadplots/2017bin17.pdf  used on input line 914. on in
+put line 914.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 914.
+<quadplots/2018bin1.pdf, id=1691, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin1.pdf Graphic file (type pdf)
+<use quadplots/2018bin1.pdf>
+Package pdftex.def Info: quadplots/2018bin1.pdf  used on input line 920. on inp
+ut line 920.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 920.
+<quadplots/2018bin2.pdf, id=1692, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin2.pdf Graphic file (type pdf)
+<use quadplots/2018bin2.pdf>
+Package pdftex.def Info: quadplots/2018bin2.pdf  used on input line 921. on inp
+ut line 921.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 921.
+<quadplots/2018bin3.pdf, id=1693, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin3.pdf Graphic file (type pdf)
+<use quadplots/2018bin3.pdf>
+Package pdftex.def Info: quadplots/2018bin3.pdf  used on input line 922. on inp
+ut line 922.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 922.
+<quadplots/2018bin4.pdf, id=1694, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin4.pdf Graphic file (type pdf)
+<use quadplots/2018bin4.pdf>
+Package pdftex.def Info: quadplots/2018bin4.pdf  used on input line 923. on inp
+ut line 923.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 923.
+<quadplots/2018bin5.pdf, id=1695, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin5.pdf Graphic file (type pdf)
+<use quadplots/2018bin5.pdf>
+Package pdftex.def Info: quadplots/2018bin5.pdf  used on input line 924. on inp
+ut line 924.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 924.
+<quadplots/2018bin6.pdf, id=1696, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin6.pdf Graphic file (type pdf)
+<use quadplots/2018bin6.pdf>
+Package pdftex.def Info: quadplots/2018bin6.pdf  used on input line 925. on inp
+ut line 925.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 925.
+<quadplots/2018bin7.pdf, id=1697, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin7.pdf Graphic file (type pdf)
+<use quadplots/2018bin7.pdf>
+Package pdftex.def Info: quadplots/2018bin7.pdf  used on input line 926. on inp
+ut line 926.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 926.
+<quadplots/2018bin8.pdf, id=1698, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin8.pdf Graphic file (type pdf)
+<use quadplots/2018bin8.pdf>
+Package pdftex.def Info: quadplots/2018bin8.pdf  used on input line 927. on inp
+ut line 927.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 927.
+<quadplots/2018bin9.pdf, id=1699, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin9.pdf Graphic file (type pdf)
+<use quadplots/2018bin9.pdf>
+Package pdftex.def Info: quadplots/2018bin9.pdf  used on input line 928. on inp
+ut line 928.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 928.
+<quadplots/2018bin10.pdf, id=1700, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin10.pdf Graphic file (type pdf)
+<use quadplots/2018bin10.pdf>
+Package pdftex.def Info: quadplots/2018bin10.pdf  used on input line 929. on in
+put line 929.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 929.
+<quadplots/2018bin11.pdf, id=1701, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin11.pdf Graphic file (type pdf)
+<use quadplots/2018bin11.pdf>
+Package pdftex.def Info: quadplots/2018bin11.pdf  used on input line 930. on in
+put line 930.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 930.
+<quadplots/2018bin12.pdf, id=1702, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin12.pdf Graphic file (type pdf)
+<use quadplots/2018bin12.pdf>
+Package pdftex.def Info: quadplots/2018bin12.pdf  used on input line 931. on in
+put line 931.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 931.
+<quadplots/2018bin13.pdf, id=1703, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin13.pdf Graphic file (type pdf)
+<use quadplots/2018bin13.pdf>
+Package pdftex.def Info: quadplots/2018bin13.pdf  used on input line 932. on in
+put line 932.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 932.
+<quadplots/2018bin14.pdf, id=1704, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin14.pdf Graphic file (type pdf)
+<use quadplots/2018bin14.pdf>
+Package pdftex.def Info: quadplots/2018bin14.pdf  used on input line 933. on in
+put line 933.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 933.
+<quadplots/2018bin15.pdf, id=1705, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin15.pdf Graphic file (type pdf)
+<use quadplots/2018bin15.pdf>
+Package pdftex.def Info: quadplots/2018bin15.pdf  used on input line 934. on in
+put line 934.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 934.
+<quadplots/2018bin16.pdf, id=1706, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin16.pdf Graphic file (type pdf)
+<use quadplots/2018bin16.pdf>
+Package pdftex.def Info: quadplots/2018bin16.pdf  used on input line 935. on in
+put line 935.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 935.
+<quadplots/2018bin17.pdf, id=1707, pagebox=cropbox, 569.12625pt x 384.43625pt>
+File: quadplots/2018bin17.pdf Graphic file (type pdf)
+<use quadplots/2018bin17.pdf>
+Package pdftex.def Info: quadplots/2018bin17.pdf  used on input line 936. on in
+put line 936.
+Package pdftex.def Info: Requested size: 145.68143pt x 98.40244pt on input line
+ 936.
+ [34
+
+] [35 <./quadplots/2016bin1.pdf, page is rotated 90 degrees> <./quadplots/2016b
+in2.pdf, page is rotated 90 degrees> <./quadplots/2016bin3.pdf, page is rotated
+ 90 degrees> <./quadplots/2016bin4.pdf, page is rotated 90 degrees> <./quadplot
+s/2016bin5.pdf, page is rotated 90 degrees> <./quadplots/2016bin6.pdf, page is 
+rotated 90 degrees> <./quadplots/2016bin7.pdf, page is rotated 90 degrees> <./q
+uadplots/2016bin8.pdf, page is rotated 90 degrees> <./quadplots/2016bin9.pdf, p
+age is rotated 90 degrees> <./quadplots/2016bin10.pdf, page is rotated 90 degre
+es> <./quadplots/2016bin11.pdf, page is rotated 90 degrees> <./quadplots/2016bi
+n12.pdf, page is rotated 90 degrees> <./quadplots/2016bin13.pdf, page is rotate
+d 90 degrees> <./quadplots/2016bin14.pdf, page is rotated 90 degrees> <./quadpl
+ots/2016bin15.pdf, page is rotated 90 degrees> <./quadplots/2016bin16.pdf, page
+ is rotated 90 degrees> <./quadplots/2016bin17.pdf, page is rotated 90 degrees>
+] [36 <./quadplots/2017bin2.pdf, page is rotated 90 degrees> <./quadplots/2017b
+in3.pdf, page is rotated 90 degrees> <./quadplots/2017bin4.pdf, page is rotated
+ 90 degrees> <./quadplots/2017bin5.pdf, page is rotated 90 degrees> <./quadplot
+s/2017bin6.pdf, page is rotated 90 degrees> <./quadplots/2017bin7.pdf, page is 
+rotated 90 degrees> <./quadplots/2017bin8.pdf, page is rotated 90 degrees> <./q
+uadplots/2017bin9.pdf, page is rotated 90 degrees> <./quadplots/2017bin10.pdf, 
+page is rotated 90 degrees> <./quadplots/2017bin11.pdf, page is rotated 90 degr
+ees> <./quadplots/2017bin12.pdf, page is rotated 90 degrees> <./quadplots/2017b
+in13.pdf, page is rotated 90 degrees> <./quadplots/2017bin14.pdf, page is rotat
+ed 90 degrees> <./quadplots/2017bin15.pdf, page is rotated 90 degrees> <./quadp
+lots/2017bin17.pdf, page is rotated 90 degrees>] [37 <./quadplots/2018bin1.pdf,
+ page is rotated 90 degrees> <./quadplots/2018bin2.pdf, page is rotated 90 degr
+ees> <./quadplots/2018bin3.pdf, page is rotated 90 degrees> <./quadplots/2018bi
+n4.pdf, page is rotated 90 degrees> <./quadplots/2018bin5.pdf, page is rotated 
+90 degrees> <./quadplots/2018bin6.pdf, page is rotated 90 degrees> <./quadplots
+/2018bin7.pdf, page is rotated 90 degrees> <./quadplots/2018bin8.pdf, page is r
+otated 90 degrees> <./quadplots/2018bin9.pdf, page is rotated 90 degrees> <./qu
+adplots/2018bin10.pdf, page is rotated 90 degrees> <./quadplots/2018bin11.pdf, 
+page is rotated 90 degrees> <./quadplots/2018bin12.pdf, page is rotated 90 degr
+ees> <./quadplots/2018bin13.pdf, page is rotated 90 degrees> <./quadplots/2018b
+in14.pdf, page is rotated 90 degrees> <./quadplots/2018bin15.pdf, page is rotat
+ed 90 degrees> <./quadplots/2018bin16.pdf, page is rotated 90 degrees> <./quadp
+lots/2018bin17.pdf, page is rotated 90 degrees>]
+<templates/JES_AbsoluteMPFBias_16.pdf, id=3843, pagebox=cropbox, 569.12625pt x 
+621.32124pt>
+File: templates/JES_AbsoluteMPFBias_16.pdf Graphic file (type pdf)
+<use templates/JES_AbsoluteMPFBias_16.pdf>
+Package pdftex.def Info: templates/JES_AbsoluteMPFBias_16.pdf  used on input li
+ne 954. on input line 954.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+954.
+<templates/JES_AbsoluteMPFBias_17.pdf, id=3844, pagebox=cropbox, 569.12625pt x 
+621.32124pt>
+File: templates/JES_AbsoluteMPFBias_17.pdf Graphic file (type pdf)
+<use templates/JES_AbsoluteMPFBias_17.pdf>
+Package pdftex.def Info: templates/JES_AbsoluteMPFBias_17.pdf  used on input li
+ne 955. on input line 955.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+955.
+<templates/JES_AbsoluteMPFBias_18.pdf, id=3845, pagebox=cropbox, 569.12625pt x 
+621.32124pt>
+File: templates/JES_AbsoluteMPFBias_18.pdf Graphic file (type pdf)
+<use templates/JES_AbsoluteMPFBias_18.pdf>
+Package pdftex.def Info: templates/JES_AbsoluteMPFBias_18.pdf  used on input li
+ne 956. on input line 956.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+956.
+<templates/JES_AbsoluteScale_16.pdf, id=3846, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_AbsoluteScale_16.pdf Graphic file (type pdf)
+<use templates/JES_AbsoluteScale_16.pdf>
+Package pdftex.def Info: templates/JES_AbsoluteScale_16.pdf  used on input line
+ 962. on input line 962.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+962.
+<templates/JES_AbsoluteScale_17.pdf, id=3847, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_AbsoluteScale_17.pdf Graphic file (type pdf)
+<use templates/JES_AbsoluteScale_17.pdf>
+Package pdftex.def Info: templates/JES_AbsoluteScale_17.pdf  used on input line
+ 963. on input line 963.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+963.
+<templates/JES_AbsoluteScale_18.pdf, id=3848, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_AbsoluteScale_18.pdf Graphic file (type pdf)
+<use templates/JES_AbsoluteScale_18.pdf>
+Package pdftex.def Info: templates/JES_AbsoluteScale_18.pdf  used on input line
+ 964. on input line 964.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+964.
+<templates/JES_AbsoluteStat_16.pdf, id=3849, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_AbsoluteStat_16.pdf Graphic file (type pdf)
+<use templates/JES_AbsoluteStat_16.pdf>
+Package pdftex.def Info: templates/JES_AbsoluteStat_16.pdf  used on input line 
+970. on input line 970.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+970.
+<templates/JES_AbsoluteStat_17.pdf, id=3850, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_AbsoluteStat_17.pdf Graphic file (type pdf)
+<use templates/JES_AbsoluteStat_17.pdf>
+Package pdftex.def Info: templates/JES_AbsoluteStat_17.pdf  used on input line 
+971. on input line 971.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+971.
+<templates/JES_AbsoluteStat_18.pdf, id=3851, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_AbsoluteStat_18.pdf Graphic file (type pdf)
+<use templates/JES_AbsoluteStat_18.pdf>
+Package pdftex.def Info: templates/JES_AbsoluteStat_18.pdf  used on input line 
+972. on input line 972.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+972.
+<templates/JES_FlavorQCD_16.pdf, id=3852, pagebox=cropbox, 569.12625pt x 621.32
+124pt>
+File: templates/JES_FlavorQCD_16.pdf Graphic file (type pdf)
+<use templates/JES_FlavorQCD_16.pdf>
+Package pdftex.def Info: templates/JES_FlavorQCD_16.pdf  used on input line 978
+. on input line 978.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+978.
+<templates/JES_FlavorQCD_17.pdf, id=3853, pagebox=cropbox, 569.12625pt x 621.32
+124pt>
+File: templates/JES_FlavorQCD_17.pdf Graphic file (type pdf)
+<use templates/JES_FlavorQCD_17.pdf>
+Package pdftex.def Info: templates/JES_FlavorQCD_17.pdf  used on input line 979
+. on input line 979.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+979.
+<templates/JES_FlavorQCD_18.pdf, id=3854, pagebox=cropbox, 569.12625pt x 621.32
+124pt>
+File: templates/JES_FlavorQCD_18.pdf Graphic file (type pdf)
+<use templates/JES_FlavorQCD_18.pdf>
+Package pdftex.def Info: templates/JES_FlavorQCD_18.pdf  used on input line 980
+. on input line 980.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+980.
+<templates/JES_Fragmentation_16.pdf, id=3855, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_Fragmentation_16.pdf Graphic file (type pdf)
+<use templates/JES_Fragmentation_16.pdf>
+Package pdftex.def Info: templates/JES_Fragmentation_16.pdf  used on input line
+ 986. on input line 986.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+986.
+<templates/JES_Fragmentation_17.pdf, id=3856, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_Fragmentation_17.pdf Graphic file (type pdf)
+<use templates/JES_Fragmentation_17.pdf>
+Package pdftex.def Info: templates/JES_Fragmentation_17.pdf  used on input line
+ 987. on input line 987.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+987.
+<templates/JES_Fragmentation_18.pdf, id=3857, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_Fragmentation_18.pdf Graphic file (type pdf)
+<use templates/JES_Fragmentation_18.pdf>
+Package pdftex.def Info: templates/JES_Fragmentation_18.pdf  used on input line
+ 988. on input line 988.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+988.
+<templates/JES_PileupDataMC_16.pdf, id=3858, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_PileupDataMC_16.pdf Graphic file (type pdf)
+<use templates/JES_PileupDataMC_16.pdf>
+Package pdftex.def Info: templates/JES_PileupDataMC_16.pdf  used on input line 
+994. on input line 994.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+994.
+<templates/JES_PileupDataMC_17.pdf, id=3859, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_PileupDataMC_17.pdf Graphic file (type pdf)
+<use templates/JES_PileupDataMC_17.pdf>
+Package pdftex.def Info: templates/JES_PileupDataMC_17.pdf  used on input line 
+995. on input line 995.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+995.
+<templates/JES_PileupDataMC_18.pdf, id=3860, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_PileupDataMC_18.pdf Graphic file (type pdf)
+<use templates/JES_PileupDataMC_18.pdf>
+Package pdftex.def Info: templates/JES_PileupDataMC_18.pdf  used on input line 
+996. on input line 996.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+996.
+<templates/JES_PileupPtBB_16.pdf, id=3861, pagebox=cropbox, 569.12625pt x 621.3
+2124pt>
+File: templates/JES_PileupPtBB_16.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtBB_16.pdf>
+Package pdftex.def Info: templates/JES_PileupPtBB_16.pdf  used on input line 10
+02. on input line 1002.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1002.
+<templates/JES_PileupPtBB_17.pdf, id=3862, pagebox=cropbox, 569.12625pt x 621.3
+2124pt>
+File: templates/JES_PileupPtBB_17.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtBB_17.pdf>
+Package pdftex.def Info: templates/JES_PileupPtBB_17.pdf  used on input line 10
+03. on input line 1003.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1003.
+<templates/JES_PileupPtBB_18.pdf, id=3863, pagebox=cropbox, 569.12625pt x 621.3
+2124pt>
+File: templates/JES_PileupPtBB_18.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtBB_18.pdf>
+Package pdftex.def Info: templates/JES_PileupPtBB_18.pdf  used on input line 10
+04. on input line 1004.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1004.
+<templates/JES_PileupPtEC1_16.pdf, id=3864, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_PileupPtEC1_16.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtEC1_16.pdf>
+Package pdftex.def Info: templates/JES_PileupPtEC1_16.pdf  used on input line 1
+010. on input line 1010.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1010.
+<templates/JES_PileupPtEC1_17.pdf, id=3865, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_PileupPtEC1_17.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtEC1_17.pdf>
+Package pdftex.def Info: templates/JES_PileupPtEC1_17.pdf  used on input line 1
+011. on input line 1011.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1011.
+<templates/JES_PileupPtEC1_18.pdf, id=3866, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_PileupPtEC1_18.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtEC1_18.pdf>
+Package pdftex.def Info: templates/JES_PileupPtEC1_18.pdf  used on input line 1
+012. on input line 1012.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1012.
+<templates/JES_PileupPtEC2_16.pdf, id=3867, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_PileupPtEC2_16.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtEC2_16.pdf>
+Package pdftex.def Info: templates/JES_PileupPtEC2_16.pdf  used on input line 1
+018. on input line 1018.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1018.
+<templates/JES_PileupPtEC2_17.pdf, id=3868, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_PileupPtEC2_17.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtEC2_17.pdf>
+Package pdftex.def Info: templates/JES_PileupPtEC2_17.pdf  used on input line 1
+019. on input line 1019.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1019.
+<templates/JES_PileupPtEC2_18.pdf, id=3869, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_PileupPtEC2_18.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtEC2_18.pdf>
+Package pdftex.def Info: templates/JES_PileupPtEC2_18.pdf  used on input line 1
+020. on input line 1020.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1020.
+<templates/JES_PileupPtHF_16.pdf, id=3870, pagebox=cropbox, 569.12625pt x 621.3
+2124pt>
+File: templates/JES_PileupPtHF_16.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtHF_16.pdf>
+Package pdftex.def Info: templates/JES_PileupPtHF_16.pdf  used on input line 10
+26. on input line 1026.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1026.
+<templates/JES_PileupPtHF_17.pdf, id=3871, pagebox=cropbox, 569.12625pt x 621.3
+2124pt>
+File: templates/JES_PileupPtHF_17.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtHF_17.pdf>
+Package pdftex.def Info: templates/JES_PileupPtHF_17.pdf  used on input line 10
+27. on input line 1027.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1027.
+<templates/JES_PileupPtHF_18.pdf, id=3872, pagebox=cropbox, 569.12625pt x 621.3
+2124pt>
+File: templates/JES_PileupPtHF_18.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtHF_18.pdf>
+Package pdftex.def Info: templates/JES_PileupPtHF_18.pdf  used on input line 10
+28. on input line 1028.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1028.
+<templates/JES_PileupPtRef_16.pdf, id=3873, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_PileupPtRef_16.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtRef_16.pdf>
+Package pdftex.def Info: templates/JES_PileupPtRef_16.pdf  used on input line 1
+034. on input line 1034.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1034.
+<templates/JES_PileupPtRef_17.pdf, id=3874, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_PileupPtRef_17.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtRef_17.pdf>
+Package pdftex.def Info: templates/JES_PileupPtRef_17.pdf  used on input line 1
+035. on input line 1035.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1035.
+<templates/JES_PileupPtRef_18.pdf, id=3875, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_PileupPtRef_18.pdf Graphic file (type pdf)
+<use templates/JES_PileupPtRef_18.pdf>
+Package pdftex.def Info: templates/JES_PileupPtRef_18.pdf  used on input line 1
+036. on input line 1036.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1036.
+<templates/JES_RelativeBal_16.pdf, id=3876, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_RelativeBal_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativeBal_16.pdf>
+Package pdftex.def Info: templates/JES_RelativeBal_16.pdf  used on input line 1
+042. on input line 1042.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1042.
+<templates/JES_RelativeBal_17.pdf, id=3877, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_RelativeBal_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativeBal_17.pdf>
+Package pdftex.def Info: templates/JES_RelativeBal_17.pdf  used on input line 1
+043. on input line 1043.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1043.
+<templates/JES_RelativeBal_18.pdf, id=3878, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_RelativeBal_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativeBal_18.pdf>
+Package pdftex.def Info: templates/JES_RelativeBal_18.pdf  used on input line 1
+044. on input line 1044.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1044.
+<templates/JES_RelativeFSR_16.pdf, id=3879, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_RelativeFSR_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativeFSR_16.pdf>
+Package pdftex.def Info: templates/JES_RelativeFSR_16.pdf  used on input line 1
+050. on input line 1050.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1050.
+<templates/JES_RelativeFSR_17.pdf, id=3880, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_RelativeFSR_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativeFSR_17.pdf>
+Package pdftex.def Info: templates/JES_RelativeFSR_17.pdf  used on input line 1
+051. on input line 1051.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1051.
+<templates/JES_RelativeFSR_18.pdf, id=3881, pagebox=cropbox, 569.12625pt x 621.
+32124pt>
+File: templates/JES_RelativeFSR_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativeFSR_18.pdf>
+Package pdftex.def Info: templates/JES_RelativeFSR_18.pdf  used on input line 1
+052. on input line 1052.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1052.
+<templates/JES_RelativeJEREC1_16.pdf, id=3882, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_RelativeJEREC1_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativeJEREC1_16.pdf>
+Package pdftex.def Info: templates/JES_RelativeJEREC1_16.pdf  used on input lin
+e 1058. on input line 1058.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1058.
+<templates/JES_RelativeJEREC1_17.pdf, id=3883, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_RelativeJEREC1_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativeJEREC1_17.pdf>
+Package pdftex.def Info: templates/JES_RelativeJEREC1_17.pdf  used on input lin
+e 1059. on input line 1059.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1059.
+<templates/JES_RelativeJEREC1_18.pdf, id=3884, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_RelativeJEREC1_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativeJEREC1_18.pdf>
+Package pdftex.def Info: templates/JES_RelativeJEREC1_18.pdf  used on input lin
+e 1060. on input line 1060.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1060.
+<templates/JES_RelativeJEREC2_16.pdf, id=3885, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_RelativeJEREC2_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativeJEREC2_16.pdf>
+Package pdftex.def Info: templates/JES_RelativeJEREC2_16.pdf  used on input lin
+e 1066. on input line 1066.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1066.
+<templates/JES_RelativeJEREC2_17.pdf, id=3886, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_RelativeJEREC2_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativeJEREC2_17.pdf>
+Package pdftex.def Info: templates/JES_RelativeJEREC2_17.pdf  used on input lin
+e 1067. on input line 1067.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1067.
+<templates/JES_RelativeJEREC2_18.pdf, id=3887, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_RelativeJEREC2_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativeJEREC2_18.pdf>
+Package pdftex.def Info: templates/JES_RelativeJEREC2_18.pdf  used on input lin
+e 1068. on input line 1068.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1068.
+<templates/JES_RelativeJERHF_16.pdf, id=3888, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_RelativeJERHF_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativeJERHF_16.pdf>
+Package pdftex.def Info: templates/JES_RelativeJERHF_16.pdf  used on input line
+ 1074. on input line 1074.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1074.
+<templates/JES_RelativeJERHF_17.pdf, id=3889, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_RelativeJERHF_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativeJERHF_17.pdf>
+Package pdftex.def Info: templates/JES_RelativeJERHF_17.pdf  used on input line
+ 1075. on input line 1075.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1075.
+<templates/JES_RelativeJERHF_18.pdf, id=3890, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_RelativeJERHF_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativeJERHF_18.pdf>
+Package pdftex.def Info: templates/JES_RelativeJERHF_18.pdf  used on input line
+ 1076. on input line 1076.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1076.
+<templates/JES_RelativePtBB_16.pdf, id=3891, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_RelativePtBB_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtBB_16.pdf>
+Package pdftex.def Info: templates/JES_RelativePtBB_16.pdf  used on input line 
+1082. on input line 1082.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1082.
+<templates/JES_RelativePtBB_17.pdf, id=3892, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_RelativePtBB_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtBB_17.pdf>
+Package pdftex.def Info: templates/JES_RelativePtBB_17.pdf  used on input line 
+1083. on input line 1083.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1083.
+<templates/JES_RelativePtBB_18.pdf, id=3893, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_RelativePtBB_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtBB_18.pdf>
+Package pdftex.def Info: templates/JES_RelativePtBB_18.pdf  used on input line 
+1084. on input line 1084.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1084.
+<templates/JES_RelativePtEC1_16.pdf, id=3894, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_RelativePtEC1_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtEC1_16.pdf>
+Package pdftex.def Info: templates/JES_RelativePtEC1_16.pdf  used on input line
+ 1090. on input line 1090.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1090.
+<templates/JES_RelativePtEC1_17.pdf, id=3895, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_RelativePtEC1_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtEC1_17.pdf>
+Package pdftex.def Info: templates/JES_RelativePtEC1_17.pdf  used on input line
+ 1091. on input line 1091.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1091.
+<templates/JES_RelativePtEC1_18.pdf, id=3896, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_RelativePtEC1_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtEC1_18.pdf>
+Package pdftex.def Info: templates/JES_RelativePtEC1_18.pdf  used on input line
+ 1092. on input line 1092.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1092.
+<templates/JES_RelativePtEC2_16.pdf, id=3897, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_RelativePtEC2_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtEC2_16.pdf>
+Package pdftex.def Info: templates/JES_RelativePtEC2_16.pdf  used on input line
+ 1098. on input line 1098.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1098.
+<templates/JES_RelativePtEC2_17.pdf, id=3898, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_RelativePtEC2_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtEC2_17.pdf>
+Package pdftex.def Info: templates/JES_RelativePtEC2_17.pdf  used on input line
+ 1099. on input line 1099.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1099.
+<templates/JES_RelativePtEC2_18.pdf, id=3899, pagebox=cropbox, 569.12625pt x 62
+1.32124pt>
+File: templates/JES_RelativePtEC2_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtEC2_18.pdf>
+Package pdftex.def Info: templates/JES_RelativePtEC2_18.pdf  used on input line
+ 1100. on input line 1100.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1100.
+<templates/JES_RelativePtHF_16.pdf, id=3900, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_RelativePtHF_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtHF_16.pdf>
+Package pdftex.def Info: templates/JES_RelativePtHF_16.pdf  used on input line 
+1106. on input line 1106.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1106.
+<templates/JES_RelativePtHF_17.pdf, id=3901, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_RelativePtHF_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtHF_17.pdf>
+Package pdftex.def Info: templates/JES_RelativePtHF_17.pdf  used on input line 
+1107. on input line 1107.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1107.
+<templates/JES_RelativePtHF_18.pdf, id=3902, pagebox=cropbox, 569.12625pt x 621
+.32124pt>
+File: templates/JES_RelativePtHF_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativePtHF_18.pdf>
+Package pdftex.def Info: templates/JES_RelativePtHF_18.pdf  used on input line 
+1108. on input line 1108.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1108.
+<templates/JES_RelativeSample_16.pdf, id=3903, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_RelativeSample_16.pdf Graphic file (type pdf)
+<use templates/JES_RelativeSample_16.pdf>
+Package pdftex.def Info: templates/JES_RelativeSample_16.pdf  used on input lin
+e 1114. on input line 1114.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1114.
+<templates/JES_RelativeSample_17.pdf, id=3904, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_RelativeSample_17.pdf Graphic file (type pdf)
+<use templates/JES_RelativeSample_17.pdf>
+Package pdftex.def Info: templates/JES_RelativeSample_17.pdf  used on input lin
+e 1115. on input line 1115.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1115.
+<templates/JES_RelativeSample_18.pdf, id=3905, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_RelativeSample_18.pdf Graphic file (type pdf)
+<use templates/JES_RelativeSample_18.pdf>
+Package pdftex.def Info: templates/JES_RelativeSample_18.pdf  used on input lin
+e 1116. on input line 1116.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1116.
+<templates/JES_SinglePionECAL_16.pdf, id=3906, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_SinglePionECAL_16.pdf Graphic file (type pdf)
+<use templates/JES_SinglePionECAL_16.pdf>
+Package pdftex.def Info: templates/JES_SinglePionECAL_16.pdf  used on input lin
+e 1122. on input line 1122.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1122.
+<templates/JES_SinglePionECAL_17.pdf, id=3907, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_SinglePionECAL_17.pdf Graphic file (type pdf)
+<use templates/JES_SinglePionECAL_17.pdf>
+Package pdftex.def Info: templates/JES_SinglePionECAL_17.pdf  used on input lin
+e 1123. on input line 1123.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1123.
+<templates/JES_SinglePionECAL_18.pdf, id=3908, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_SinglePionECAL_18.pdf Graphic file (type pdf)
+<use templates/JES_SinglePionECAL_18.pdf>
+Package pdftex.def Info: templates/JES_SinglePionECAL_18.pdf  used on input lin
+e 1124. on input line 1124.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1124.
+<templates/JES_SinglePionHCAL_16.pdf, id=3909, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_SinglePionHCAL_16.pdf Graphic file (type pdf)
+<use templates/JES_SinglePionHCAL_16.pdf>
+Package pdftex.def Info: templates/JES_SinglePionHCAL_16.pdf  used on input lin
+e 1130. on input line 1130.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1130.
+<templates/JES_SinglePionHCAL_17.pdf, id=3910, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_SinglePionHCAL_17.pdf Graphic file (type pdf)
+<use templates/JES_SinglePionHCAL_17.pdf>
+Package pdftex.def Info: templates/JES_SinglePionHCAL_17.pdf  used on input lin
+e 1131. on input line 1131.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1131.
+<templates/JES_SinglePionHCAL_18.pdf, id=3911, pagebox=cropbox, 569.12625pt x 6
+21.32124pt>
+File: templates/JES_SinglePionHCAL_18.pdf Graphic file (type pdf)
+<use templates/JES_SinglePionHCAL_18.pdf>
+Package pdftex.def Info: templates/JES_SinglePionHCAL_18.pdf  used on input lin
+e 1132. on input line 1132.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1132.
+<templates/JES_TimePtEta_16.pdf, id=3912, pagebox=cropbox, 569.12625pt x 621.32
+124pt>
+File: templates/JES_TimePtEta_16.pdf Graphic file (type pdf)
+<use templates/JES_TimePtEta_16.pdf>
+Package pdftex.def Info: templates/JES_TimePtEta_16.pdf  used on input line 113
+8. on input line 1138.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1138.
+<templates/JES_TimePtEta_17.pdf, id=3913, pagebox=cropbox, 569.12625pt x 621.32
+124pt>
+File: templates/JES_TimePtEta_17.pdf Graphic file (type pdf)
+<use templates/JES_TimePtEta_17.pdf>
+Package pdftex.def Info: templates/JES_TimePtEta_17.pdf  used on input line 113
+9. on input line 1139.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1139.
+<templates/JES_TimePtEta_18.pdf, id=3914, pagebox=cropbox, 569.12625pt x 621.32
+124pt>
+File: templates/JES_TimePtEta_18.pdf Graphic file (type pdf)
+<use templates/JES_TimePtEta_18.pdf>
+Package pdftex.def Info: templates/JES_TimePtEta_18.pdf  used on input line 114
+0. on input line 1140.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1140.
+<templates/JERup_16.pdf, id=3915, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/JERup_16.pdf Graphic file (type pdf)
+<use templates/JERup_16.pdf>
+Package pdftex.def Info: templates/JERup_16.pdf  used on input line 1146. on in
+put line 1146.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1146.
+<templates/JERup_17.pdf, id=3916, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/JERup_17.pdf Graphic file (type pdf)
+<use templates/JERup_17.pdf>
+Package pdftex.def Info: templates/JERup_17.pdf  used on input line 1147. on in
+put line 1147.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1147.
+<templates/JERup_18.pdf, id=3917, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/JERup_18.pdf Graphic file (type pdf)
+<use templates/JERup_18.pdf>
+Package pdftex.def Info: templates/JERup_18.pdf  used on input line 1148. on in
+put line 1148.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1148.
+<templates/JERdown_16.pdf, id=3918, pagebox=cropbox, 569.12625pt x 621.32124pt>
+
+File: templates/JERdown_16.pdf Graphic file (type pdf)
+<use templates/JERdown_16.pdf>
+Package pdftex.def Info: templates/JERdown_16.pdf  used on input line 1154. on 
+input line 1154.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1154.
+<templates/JERdown_17.pdf, id=3919, pagebox=cropbox, 569.12625pt x 621.32124pt>
+
+File: templates/JERdown_17.pdf Graphic file (type pdf)
+<use templates/JERdown_17.pdf>
+Package pdftex.def Info: templates/JERdown_17.pdf  used on input line 1155. on 
+input line 1155.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1155.
+<templates/JERdown_18.pdf, id=3920, pagebox=cropbox, 569.12625pt x 621.32124pt>
+
+File: templates/JERdown_18.pdf Graphic file (type pdf)
+<use templates/JERdown_18.pdf>
+Package pdftex.def Info: templates/JERdown_18.pdf  used on input line 1156. on 
+input line 1156.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1156.
+<templates/bdec_16.pdf, id=3921, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/bdec_16.pdf Graphic file (type pdf)
+<use templates/bdec_16.pdf>
+Package pdftex.def Info: templates/bdec_16.pdf  used on input line 1162. on inp
+ut line 1162.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1162.
+<templates/bdec_17.pdf, id=3922, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/bdec_17.pdf Graphic file (type pdf)
+<use templates/bdec_17.pdf>
+Package pdftex.def Info: templates/bdec_17.pdf  used on input line 1163. on inp
+ut line 1163.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1163.
+<templates/bdec_18.pdf, id=3923, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/bdec_18.pdf Graphic file (type pdf)
+<use templates/bdec_18.pdf>
+Package pdftex.def Info: templates/bdec_18.pdf  used on input line 1164. on inp
+ut line 1164.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1164.
+<templates/bfrag_16.pdf, id=3924, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/bfrag_16.pdf Graphic file (type pdf)
+<use templates/bfrag_16.pdf>
+Package pdftex.def Info: templates/bfrag_16.pdf  used on input line 1170. on in
+put line 1170.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1170.
+<templates/bfrag_17.pdf, id=3925, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/bfrag_17.pdf Graphic file (type pdf)
+<use templates/bfrag_17.pdf>
+Package pdftex.def Info: templates/bfrag_17.pdf  used on input line 1171. on in
+put line 1171.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1171.
+<templates/bfrag_18.pdf, id=3926, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/bfrag_18.pdf Graphic file (type pdf)
+<use templates/bfrag_18.pdf>
+Package pdftex.def Info: templates/bfrag_18.pdf  used on input line 1172. on in
+put line 1172.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1172.
+<templates/btag_16.pdf, id=3927, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/btag_16.pdf Graphic file (type pdf)
+<use templates/btag_16.pdf>
+Package pdftex.def Info: templates/btag_16.pdf  used on input line 1178. on inp
+ut line 1178.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1178.
+<templates/btag_17.pdf, id=3928, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/btag_17.pdf Graphic file (type pdf)
+<use templates/btag_17.pdf>
+Package pdftex.def Info: templates/btag_17.pdf  used on input line 1179. on inp
+ut line 1179.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1179.
+<templates/btag_18.pdf, id=3929, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/btag_18.pdf Graphic file (type pdf)
+<use templates/btag_18.pdf>
+Package pdftex.def Info: templates/btag_18.pdf  used on input line 1180. on inp
+ut line 1180.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1180.
+<templates/elrec_16.pdf, id=3930, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/elrec_16.pdf Graphic file (type pdf)
+<use templates/elrec_16.pdf>
+Package pdftex.def Info: templates/elrec_16.pdf  used on input line 1186. on in
+put line 1186.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1186.
+<templates/elrec_17.pdf, id=3931, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/elrec_17.pdf Graphic file (type pdf)
+<use templates/elrec_17.pdf>
+Package pdftex.def Info: templates/elrec_17.pdf  used on input line 1187. on in
+put line 1187.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1187.
+<templates/elrec_18.pdf, id=3932, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/elrec_18.pdf Graphic file (type pdf)
+<use templates/elrec_18.pdf>
+Package pdftex.def Info: templates/elrec_18.pdf  used on input line 1188. on in
+put line 1188.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1188.
+<templates/eltrg_16.pdf, id=3933, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/eltrg_16.pdf Graphic file (type pdf)
+<use templates/eltrg_16.pdf>
+Package pdftex.def Info: templates/eltrg_16.pdf  used on input line 1194. on in
+put line 1194.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1194.
+<templates/eltrg_17.pdf, id=3934, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/eltrg_17.pdf Graphic file (type pdf)
+<use templates/eltrg_17.pdf>
+Package pdftex.def Info: templates/eltrg_17.pdf  used on input line 1195. on in
+put line 1195.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1195.
+<templates/eltrg_18.pdf, id=3935, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/eltrg_18.pdf Graphic file (type pdf)
+<use templates/eltrg_18.pdf>
+Package pdftex.def Info: templates/eltrg_18.pdf  used on input line 1196. on in
+put line 1196.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1196.
+<templates/fs_16.pdf, id=3936, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/fs_16.pdf Graphic file (type pdf)
+<use templates/fs_16.pdf>
+Package pdftex.def Info: templates/fs_16.pdf  used on input line 1210. on input
+ line 1210.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1210.
+<templates/fs_17.pdf, id=3937, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/fs_17.pdf Graphic file (type pdf)
+<use templates/fs_17.pdf>
+Package pdftex.def Info: templates/fs_17.pdf  used on input line 1211. on input
+ line 1211.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1211.
+<templates/fs_18.pdf, id=3938, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/fs_18.pdf Graphic file (type pdf)
+<use templates/fs_18.pdf>
+Package pdftex.def Info: templates/fs_18.pdf  used on input line 1212. on input
+ line 1212.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1212.
+<templates/fsr_16.pdf, id=3939, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/fsr_16.pdf Graphic file (type pdf)
+<use templates/fsr_16.pdf>
+Package pdftex.def Info: templates/fsr_16.pdf  used on input line 1218. on inpu
+t line 1218.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1218.
+<templates/fsr_17.pdf, id=3940, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/fsr_17.pdf Graphic file (type pdf)
+<use templates/fsr_17.pdf>
+Package pdftex.def Info: templates/fsr_17.pdf  used on input line 1219. on inpu
+t line 1219.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1219.
+<templates/fsr_18.pdf, id=3941, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/fsr_18.pdf Graphic file (type pdf)
+<use templates/fsr_18.pdf>
+Package pdftex.def Info: templates/fsr_18.pdf  used on input line 1220. on inpu
+t line 1220.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1220.
+<templates/hd_16.pdf, id=3942, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/hd_16.pdf Graphic file (type pdf)
+<use templates/hd_16.pdf>
+Package pdftex.def Info: templates/hd_16.pdf  used on input line 1226. on input
+ line 1226.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1226.
+<templates/hd_17.pdf, id=3943, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/hd_17.pdf Graphic file (type pdf)
+<use templates/hd_17.pdf>
+Package pdftex.def Info: templates/hd_17.pdf  used on input line 1227. on input
+ line 1227.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1227.
+<templates/hd_18.pdf, id=3944, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/hd_18.pdf Graphic file (type pdf)
+<use templates/hd_18.pdf>
+Package pdftex.def Info: templates/hd_18.pdf  used on input line 1228. on input
+ line 1228.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1228.
+<templates/isr_16.pdf, id=3945, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/isr_16.pdf Graphic file (type pdf)
+<use templates/isr_16.pdf>
+Package pdftex.def Info: templates/isr_16.pdf  used on input line 1234. on inpu
+t line 1234.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1234.
+<templates/isr_17.pdf, id=3946, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/isr_17.pdf Graphic file (type pdf)
+<use templates/isr_17.pdf>
+Package pdftex.def Info: templates/isr_17.pdf  used on input line 1235. on inpu
+t line 1235.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1235.
+<templates/isr_18.pdf, id=3947, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/isr_18.pdf Graphic file (type pdf)
+<use templates/isr_18.pdf>
+Package pdftex.def Info: templates/isr_18.pdf  used on input line 1236. on inpu
+t line 1236.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1236.
+<templates/ltag_16.pdf, id=3948, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/ltag_16.pdf Graphic file (type pdf)
+<use templates/ltag_16.pdf>
+Package pdftex.def Info: templates/ltag_16.pdf  used on input line 1242. on inp
+ut line 1242.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1242.
+<templates/ltag_17.pdf, id=3949, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/ltag_17.pdf Graphic file (type pdf)
+<use templates/ltag_17.pdf>
+Package pdftex.def Info: templates/ltag_17.pdf  used on input line 1243. on inp
+ut line 1243.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1243.
+<templates/ltag_18.pdf, id=3950, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/ltag_18.pdf Graphic file (type pdf)
+<use templates/ltag_18.pdf>
+Package pdftex.def Info: templates/ltag_18.pdf  used on input line 1244. on inp
+ut line 1244.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1244.
+<templates/mtop_16_old.pdf, id=3951, pagebox=cropbox, 569.12625pt x 621.32124pt
+>
+File: templates/mtop_16_old.pdf Graphic file (type pdf)
+<use templates/mtop_16_old.pdf>
+Package pdftex.def Info: templates/mtop_16_old.pdf  used on input line 1253. on
+ input line 1253.
+Package pdftex.def Info: Requested size: 145.68143pt x 159.03683pt on input lin
+e 1253.
+<templates/mtop_17_old.pdf, id=3952, pagebox=cropbox, 569.12625pt x 621.32124pt
+>
+File: templates/mtop_17_old.pdf Graphic file (type pdf)
+<use templates/mtop_17_old.pdf>
+Package pdftex.def Info: templates/mtop_17_old.pdf  used on input line 1254. on
+ input line 1254.
+Package pdftex.def Info: Requested size: 145.68143pt x 159.03683pt on input lin
+e 1254.
+<templates/mtop_18_old.pdf, id=3953, pagebox=cropbox, 569.12625pt x 621.32124pt
+>
+File: templates/mtop_18_old.pdf Graphic file (type pdf)
+<use templates/mtop_18_old.pdf>
+Package pdftex.def Info: templates/mtop_18_old.pdf  used on input line 1255. on
+ input line 1255.
+Package pdftex.def Info: Requested size: 145.68143pt x 159.03683pt on input lin
+e 1255.
+<templates/mtop_16.pdf, id=3954, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/mtop_16.pdf Graphic file (type pdf)
+<use templates/mtop_16.pdf>
+Package pdftex.def Info: templates/mtop_16.pdf  used on input line 1261. on inp
+ut line 1261.
+Package pdftex.def Info: Requested size: 145.68143pt x 159.03683pt on input lin
+e 1261.
+<templates/mtop_17.pdf, id=3955, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/mtop_17.pdf Graphic file (type pdf)
+<use templates/mtop_17.pdf>
+Package pdftex.def Info: templates/mtop_17.pdf  used on input line 1262. on inp
+ut line 1262.
+Package pdftex.def Info: Requested size: 145.68143pt x 159.03683pt on input lin
+e 1262.
+<templates/mtop_18.pdf, id=3956, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/mtop_18.pdf Graphic file (type pdf)
+<use templates/mtop_18.pdf>
+Package pdftex.def Info: templates/mtop_18.pdf  used on input line 1263. on inp
+ut line 1263.
+Package pdftex.def Info: Requested size: 145.68143pt x 159.03683pt on input lin
+e 1263.
+<templates/murec_16.pdf, id=3959, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/murec_16.pdf Graphic file (type pdf)
+<use templates/murec_16.pdf>
+Package pdftex.def Info: templates/murec_16.pdf  used on input line 1270. on in
+put line 1270.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1270.
+<templates/murec_17.pdf, id=3960, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/murec_17.pdf Graphic file (type pdf)
+<use templates/murec_17.pdf>
+Package pdftex.def Info: templates/murec_17.pdf  used on input line 1271. on in
+put line 1271.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1271.
+<templates/murec_18.pdf, id=3961, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/murec_18.pdf Graphic file (type pdf)
+<use templates/murec_18.pdf>
+Package pdftex.def Info: templates/murec_18.pdf  used on input line 1272. on in
+put line 1272.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1272.
+<templates/mutrg_16.pdf, id=3962, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/mutrg_16.pdf Graphic file (type pdf)
+<use templates/mutrg_16.pdf>
+Package pdftex.def Info: templates/mutrg_16.pdf  used on input line 1278. on in
+put line 1278.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1278.
+<templates/mutrg_17.pdf, id=3963, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/mutrg_17.pdf Graphic file (type pdf)
+<use templates/mutrg_17.pdf>
+Package pdftex.def Info: templates/mutrg_17.pdf  used on input line 1279. on in
+put line 1279.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1279.
+<templates/mutrg_18.pdf, id=3964, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/mutrg_18.pdf Graphic file (type pdf)
+<use templates/mutrg_18.pdf>
+Package pdftex.def Info: templates/mutrg_18.pdf  used on input line 1280. on in
+put line 1280.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1280.
+<templates/pdf0_16.pdf, id=3965, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf0_16.pdf Graphic file (type pdf)
+<use templates/pdf0_16.pdf>
+Package pdftex.def Info: templates/pdf0_16.pdf  used on input line 1286. on inp
+ut line 1286.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1286.
+<templates/pdf0_17.pdf, id=3966, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf0_17.pdf Graphic file (type pdf)
+<use templates/pdf0_17.pdf>
+Package pdftex.def Info: templates/pdf0_17.pdf  used on input line 1287. on inp
+ut line 1287.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1287.
+<templates/pdf0_18.pdf, id=3967, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf0_18.pdf Graphic file (type pdf)
+<use templates/pdf0_18.pdf>
+Package pdftex.def Info: templates/pdf0_18.pdf  used on input line 1288. on inp
+ut line 1288.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1288.
+<templates/pdf1_16.pdf, id=3968, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf1_16.pdf Graphic file (type pdf)
+<use templates/pdf1_16.pdf>
+Package pdftex.def Info: templates/pdf1_16.pdf  used on input line 1294. on inp
+ut line 1294.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1294.
+<templates/pdf1_17.pdf, id=3969, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf1_17.pdf Graphic file (type pdf)
+<use templates/pdf1_17.pdf>
+Package pdftex.def Info: templates/pdf1_17.pdf  used on input line 1295. on inp
+ut line 1295.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1295.
+<templates/pdf1_18.pdf, id=3970, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf1_18.pdf Graphic file (type pdf)
+<use templates/pdf1_18.pdf>
+Package pdftex.def Info: templates/pdf1_18.pdf  used on input line 1296. on inp
+ut line 1296.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1296.
+<templates/pdf2_16.pdf, id=3971, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf2_16.pdf Graphic file (type pdf)
+<use templates/pdf2_16.pdf>
+Package pdftex.def Info: templates/pdf2_16.pdf  used on input line 1302. on inp
+ut line 1302.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1302.
+<templates/pdf2_17.pdf, id=3972, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf2_17.pdf Graphic file (type pdf)
+<use templates/pdf2_17.pdf>
+Package pdftex.def Info: templates/pdf2_17.pdf  used on input line 1303. on inp
+ut line 1303.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1303.
+<templates/pdf2_18.pdf, id=3973, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf2_18.pdf Graphic file (type pdf)
+<use templates/pdf2_18.pdf>
+Package pdftex.def Info: templates/pdf2_18.pdf  used on input line 1304. on inp
+ut line 1304.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1304.
+<templates/pdf3_16.pdf, id=3974, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf3_16.pdf Graphic file (type pdf)
+<use templates/pdf3_16.pdf>
+Package pdftex.def Info: templates/pdf3_16.pdf  used on input line 1310. on inp
+ut line 1310.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1310.
+<templates/pdf3_17.pdf, id=3975, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf3_17.pdf Graphic file (type pdf)
+<use templates/pdf3_17.pdf>
+Package pdftex.def Info: templates/pdf3_17.pdf  used on input line 1311. on inp
+ut line 1311.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1311.
+<templates/pdf3_18.pdf, id=3976, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf3_18.pdf Graphic file (type pdf)
+<use templates/pdf3_18.pdf>
+Package pdftex.def Info: templates/pdf3_18.pdf  used on input line 1312. on inp
+ut line 1312.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1312.
+<templates/pdf4_16.pdf, id=3977, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf4_16.pdf Graphic file (type pdf)
+<use templates/pdf4_16.pdf>
+Package pdftex.def Info: templates/pdf4_16.pdf  used on input line 1318. on inp
+ut line 1318.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1318.
+<templates/pdf4_17.pdf, id=3978, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf4_17.pdf Graphic file (type pdf)
+<use templates/pdf4_17.pdf>
+Package pdftex.def Info: templates/pdf4_17.pdf  used on input line 1319. on inp
+ut line 1319.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1319.
+<templates/pdf4_18.pdf, id=3979, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf4_18.pdf Graphic file (type pdf)
+<use templates/pdf4_18.pdf>
+Package pdftex.def Info: templates/pdf4_18.pdf  used on input line 1320. on inp
+ut line 1320.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1320.
+<templates/pdf5_16.pdf, id=3980, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf5_16.pdf Graphic file (type pdf)
+<use templates/pdf5_16.pdf>
+Package pdftex.def Info: templates/pdf5_16.pdf  used on input line 1326. on inp
+ut line 1326.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1326.
+<templates/pdf5_17.pdf, id=3981, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf5_17.pdf Graphic file (type pdf)
+<use templates/pdf5_17.pdf>
+Package pdftex.def Info: templates/pdf5_17.pdf  used on input line 1327. on inp
+ut line 1327.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1327.
+<templates/pdf5_18.pdf, id=3982, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf5_18.pdf Graphic file (type pdf)
+<use templates/pdf5_18.pdf>
+Package pdftex.def Info: templates/pdf5_18.pdf  used on input line 1328. on inp
+ut line 1328.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1328.
+<templates/pdf6_16.pdf, id=3983, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf6_16.pdf Graphic file (type pdf)
+<use templates/pdf6_16.pdf>
+Package pdftex.def Info: templates/pdf6_16.pdf  used on input line 1334. on inp
+ut line 1334.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1334.
+<templates/pdf6_17.pdf, id=3984, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf6_17.pdf Graphic file (type pdf)
+<use templates/pdf6_17.pdf>
+Package pdftex.def Info: templates/pdf6_17.pdf  used on input line 1335. on inp
+ut line 1335.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1335.
+<templates/pdf6_18.pdf, id=3985, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf6_18.pdf Graphic file (type pdf)
+<use templates/pdf6_18.pdf>
+Package pdftex.def Info: templates/pdf6_18.pdf  used on input line 1336. on inp
+ut line 1336.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1336.
+<templates/pdf7_16.pdf, id=3986, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf7_16.pdf Graphic file (type pdf)
+<use templates/pdf7_16.pdf>
+Package pdftex.def Info: templates/pdf7_16.pdf  used on input line 1342. on inp
+ut line 1342.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1342.
+<templates/pdf7_17.pdf, id=3987, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf7_17.pdf Graphic file (type pdf)
+<use templates/pdf7_17.pdf>
+Package pdftex.def Info: templates/pdf7_17.pdf  used on input line 1343. on inp
+ut line 1343.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1343.
+<templates/pdf7_18.pdf, id=3988, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf7_18.pdf Graphic file (type pdf)
+<use templates/pdf7_18.pdf>
+Package pdftex.def Info: templates/pdf7_18.pdf  used on input line 1344. on inp
+ut line 1344.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1344.
+<templates/pdf8_16.pdf, id=3989, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf8_16.pdf Graphic file (type pdf)
+<use templates/pdf8_16.pdf>
+Package pdftex.def Info: templates/pdf8_16.pdf  used on input line 1350. on inp
+ut line 1350.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1350.
+<templates/pdf8_17.pdf, id=3990, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf8_17.pdf Graphic file (type pdf)
+<use templates/pdf8_17.pdf>
+Package pdftex.def Info: templates/pdf8_17.pdf  used on input line 1351. on inp
+ut line 1351.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1351.
+<templates/pdf8_18.pdf, id=3991, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf8_18.pdf Graphic file (type pdf)
+<use templates/pdf8_18.pdf>
+Package pdftex.def Info: templates/pdf8_18.pdf  used on input line 1352. on inp
+ut line 1352.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1352.
+<templates/pdf9_16.pdf, id=3992, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf9_16.pdf Graphic file (type pdf)
+<use templates/pdf9_16.pdf>
+Package pdftex.def Info: templates/pdf9_16.pdf  used on input line 1358. on inp
+ut line 1358.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1358.
+<templates/pdf9_17.pdf, id=3993, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf9_17.pdf Graphic file (type pdf)
+<use templates/pdf9_17.pdf>
+Package pdftex.def Info: templates/pdf9_17.pdf  used on input line 1359. on inp
+ut line 1359.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1359.
+<templates/pdf9_18.pdf, id=3994, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf9_18.pdf Graphic file (type pdf)
+<use templates/pdf9_18.pdf>
+Package pdftex.def Info: templates/pdf9_18.pdf  used on input line 1360. on inp
+ut line 1360.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1360.
+<templates/pdf_as_16.pdf, id=3995, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf_as_16.pdf Graphic file (type pdf)
+<use templates/pdf_as_16.pdf>
+Package pdftex.def Info: templates/pdf_as_16.pdf  used on input line 1367. on i
+nput line 1367.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1367.
+<templates/pdf_as_17.pdf, id=3996, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf_as_17.pdf Graphic file (type pdf)
+<use templates/pdf_as_17.pdf>
+Package pdftex.def Info: templates/pdf_as_17.pdf  used on input line 1368. on i
+nput line 1368.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1368.
+<templates/pdf_as_18.pdf, id=3997, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pdf_as_18.pdf Graphic file (type pdf)
+<use templates/pdf_as_18.pdf>
+Package pdftex.def Info: templates/pdf_as_18.pdf  used on input line 1369. on i
+nput line 1369.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1369.
+ [38 <./templates/JES_AbsoluteMPFBias_16.pdf> <./templates/JES_AbsoluteMPFBias_
+17.pdf> <./templates/JES_AbsoluteMPFBias_18.pdf> <./templates/JES_AbsoluteScale
+_16.pdf> <./templates/JES_AbsoluteScale_17.pdf> <./templates/JES_AbsoluteScale_
+18.pdf> <./templates/JES_AbsoluteStat_16.pdf> <./templates/JES_AbsoluteStat_17.
+pdf> <./templates/JES_AbsoluteStat_18.pdf>] [39 <./templates/JES_FlavorQCD_16.p
+df> <./templates/JES_FlavorQCD_17.pdf> <./templates/JES_FlavorQCD_18.pdf> <./te
+mplates/JES_Fragmentation_16.pdf> <./templates/JES_Fragmentation_17.pdf> <./tem
+plates/JES_Fragmentation_18.pdf> <./templates/JES_PileupDataMC_16.pdf> <./templ
+ates/JES_PileupDataMC_17.pdf> <./templates/JES_PileupDataMC_18.pdf>] [40 <./tem
+plates/JES_PileupPtBB_16.pdf> <./templates/JES_PileupPtBB_17.pdf> <./templates/
+JES_PileupPtBB_18.pdf> <./templates/JES_PileupPtEC1_16.pdf> <./templates/JES_Pi
+leupPtEC1_17.pdf> <./templates/JES_PileupPtEC1_18.pdf> <./templates/JES_PileupP
+tEC2_16.pdf> <./templates/JES_PileupPtEC2_17.pdf> <./templates/JES_PileupPtEC2_
+18.pdf>] [41 <./templates/JES_PileupPtHF_16.pdf> <./templates/JES_PileupPtHF_17
+.pdf> <./templates/JES_PileupPtHF_18.pdf> <./templates/JES_PileupPtRef_16.pdf> 
+<./templates/JES_PileupPtRef_17.pdf> <./templates/JES_PileupPtRef_18.pdf> <./te
+mplates/JES_RelativeBal_16.pdf> <./templates/JES_RelativeBal_17.pdf> <./templat
+es/JES_RelativeBal_18.pdf>] [42 <./templates/JES_RelativeFSR_16.pdf> <./templat
+es/JES_RelativeFSR_17.pdf> <./templates/JES_RelativeFSR_18.pdf> <./templates/JE
+S_RelativeJEREC1_16.pdf> <./templates/JES_RelativeJEREC1_17.pdf> <./templates/J
+ES_RelativeJEREC1_18.pdf> <./templates/JES_RelativeJEREC2_16.pdf> <./templates/
+JES_RelativeJEREC2_17.pdf> <./templates/JES_RelativeJEREC2_18.pdf>] [43 <./temp
+lates/JES_RelativeJERHF_16.pdf> <./templates/JES_RelativeJERHF_17.pdf> <./templ
+ates/JES_RelativeJERHF_18.pdf> <./templates/JES_RelativePtBB_16.pdf> <./templat
+es/JES_RelativePtBB_17.pdf> <./templates/JES_RelativePtBB_18.pdf> <./templates/
+JES_RelativePtEC1_16.pdf> <./templates/JES_RelativePtEC1_17.pdf> <./templates/J
+ES_RelativePtEC1_18.pdf>] [44 <./templates/JES_RelativePtEC2_16.pdf> <./templat
+es/JES_RelativePtEC2_17.pdf> <./templates/JES_RelativePtEC2_18.pdf> <./template
+s/JES_RelativePtHF_16.pdf> <./templates/JES_RelativePtHF_17.pdf> <./templates/J
+ES_RelativePtHF_18.pdf> <./templates/JES_RelativeSample_16.pdf> <./templates/JE
+S_RelativeSample_17.pdf> <./templates/JES_RelativeSample_18.pdf>] [45 <./templa
+tes/JES_SinglePionECAL_16.pdf> <./templates/JES_SinglePionECAL_17.pdf> <./templ
+ates/JES_SinglePionECAL_18.pdf> <./templates/JES_SinglePionHCAL_16.pdf> <./temp
+lates/JES_SinglePionHCAL_17.pdf> <./templates/JES_SinglePionHCAL_18.pdf> <./tem
+plates/JES_TimePtEta_16.pdf> <./templates/JES_TimePtEta_17.pdf> <./templates/JE
+S_TimePtEta_18.pdf>]
+[46 <./templates/JERup_16.pdf> <./templates/JERup_17.pdf> <./templates/JERup_18
+.pdf> <./templates/JERdown_16.pdf> <./templates/JERdown_17.pdf> <./templates/JE
+Rdown_18.pdf> <./templates/bdec_16.pdf> <./templates/bdec_17.pdf> <./templates/
+bdec_18.pdf>] [47 <./templates/bfrag_16.pdf> <./templates/bfrag_17.pdf> <./temp
+lates/bfrag_18.pdf> <./templates/btag_16.pdf> <./templates/btag_17.pdf> <./temp
+lates/btag_18.pdf> <./templates/elrec_16.pdf> <./templates/elrec_17.pdf> <./tem
+plates/elrec_18.pdf>] [48 <./templates/eltrg_16.pdf> <./templates/eltrg_17.pdf>
+ <./templates/eltrg_18.pdf> <./templates/fs_16.pdf> <./templates/fs_17.pdf> <./
+templates/fs_18.pdf> <./templates/fsr_16.pdf> <./templates/fsr_17.pdf> <./templ
+ates/fsr_18.pdf>] [49 <./templates/hd_16.pdf> <./templates/hd_17.pdf> <./templa
+tes/hd_18.pdf> <./templates/isr_16.pdf> <./templates/isr_17.pdf> <./templates/i
+sr_18.pdf> <./templates/ltag_16.pdf> <./templates/ltag_17.pdf> <./templates/lta
+g_18.pdf>] [50 <./templates/mtop_16_old.pdf> <./templates/mtop_17_old.pdf> <./t
+emplates/mtop_18_old.pdf> <./templates/mtop_16.pdf> <./templates/mtop_17.pdf> <
+./templates/mtop_18.pdf> <./templates/murec_16.pdf> <./templates/murec_17.pdf> 
+<./templates/murec_18.pdf>] [51 <./templates/mutrg_16.pdf> <./templates/mutrg_1
+7.pdf> <./templates/mutrg_18.pdf> <./templates/pdf0_16.pdf> <./templates/pdf0_1
+7.pdf> <./templates/pdf0_18.pdf> <./templates/pdf1_16.pdf> <./templates/pdf1_17
+.pdf> <./templates/pdf1_18.pdf>] [52 <./templates/pdf2_16.pdf> <./templates/pdf
+2_17.pdf> <./templates/pdf2_18.pdf> <./templates/pdf3_16.pdf> <./templates/pdf3
+_17.pdf> <./templates/pdf3_18.pdf> <./templates/pdf4_16.pdf> <./templates/pdf4_
+17.pdf> <./templates/pdf4_18.pdf>] [53 <./templates/pdf5_16.pdf> <./templates/p
+df5_17.pdf> <./templates/pdf5_18.pdf> <./templates/pdf6_16.pdf> <./templates/pd
+f6_17.pdf> <./templates/pdf6_18.pdf> <./templates/pdf7_16.pdf> <./templates/pdf
+7_17.pdf> <./templates/pdf7_18.pdf>] [54 <./templates/pdf8_16.pdf> <./templates
+/pdf8_17.pdf> <./templates/pdf8_18.pdf> <./templates/pdf9_16.pdf> <./templates/
+pdf9_17.pdf> <./templates/pdf9_18.pdf> <./templates/pdf_as_16.pdf> <./templates
+/pdf_as_17.pdf> <./templates/pdf_as_18.pdf>]
+<templates/pu_16.pdf, id=10723, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pu_16.pdf Graphic file (type pdf)
+<use templates/pu_16.pdf>
+Package pdftex.def Info: templates/pu_16.pdf  used on input line 1380. on input
+ line 1380.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1380.
+<templates/pu_17.pdf, id=10724, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pu_17.pdf Graphic file (type pdf)
+<use templates/pu_17.pdf>
+Package pdftex.def Info: templates/pu_17.pdf  used on input line 1381. on input
+ line 1381.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1381.
+<templates/pu_18.pdf, id=10725, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/pu_18.pdf Graphic file (type pdf)
+<use templates/pu_18.pdf>
+Package pdftex.def Info: templates/pu_18.pdf  used on input line 1382. on input
+ line 1382.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1382.
+<templates/rs_16.pdf, id=10726, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/rs_16.pdf Graphic file (type pdf)
+<use templates/rs_16.pdf>
+Package pdftex.def Info: templates/rs_16.pdf  used on input line 1388. on input
+ line 1388.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1388.
+<templates/rs_17.pdf, id=10727, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/rs_17.pdf Graphic file (type pdf)
+<use templates/rs_17.pdf>
+Package pdftex.def Info: templates/rs_17.pdf  used on input line 1389. on input
+ line 1389.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1389.
+<templates/rs_18.pdf, id=10728, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/rs_18.pdf Graphic file (type pdf)
+<use templates/rs_18.pdf>
+Package pdftex.def Info: templates/rs_18.pdf  used on input line 1390. on input
+ line 1390.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1390.
+<templates/rsfs_16.pdf, id=10729, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/rsfs_16.pdf Graphic file (type pdf)
+<use templates/rsfs_16.pdf>
+Package pdftex.def Info: templates/rsfs_16.pdf  used on input line 1396. on inp
+ut line 1396.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1396.
+<templates/rsfs_17.pdf, id=10730, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/rsfs_17.pdf Graphic file (type pdf)
+<use templates/rsfs_17.pdf>
+Package pdftex.def Info: templates/rsfs_17.pdf  used on input line 1397. on inp
+ut line 1397.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1397.
+<templates/rsfs_18.pdf, id=10731, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/rsfs_18.pdf Graphic file (type pdf)
+<use templates/rsfs_18.pdf>
+Package pdftex.def Info: templates/rsfs_18.pdf  used on input line 1398. on inp
+ut line 1398.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1398.
+<templates/tune_16.pdf, id=10732, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/tune_16.pdf Graphic file (type pdf)
+<use templates/tune_16.pdf>
+Package pdftex.def Info: templates/tune_16.pdf  used on input line 1408. on inp
+ut line 1408.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1408.
+<templates/tune_17.pdf, id=10733, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/tune_17.pdf Graphic file (type pdf)
+<use templates/tune_17.pdf>
+Package pdftex.def Info: templates/tune_17.pdf  used on input line 1409. on inp
+ut line 1409.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1409.
+<templates/tune_18.pdf, id=10734, pagebox=cropbox, 569.12625pt x 621.32124pt>
+File: templates/tune_18.pdf Graphic file (type pdf)
+<use templates/tune_18.pdf>
+Package pdftex.def Info: templates/tune_18.pdf  used on input line 1410. on inp
+ut line 1410.
+Package pdftex.def Info: Requested size: 159.3382pt x 173.9498pt on input line 
+1410.
+ [55 <./templates/pu_16.pdf> <./templates/pu_17.pdf> <./templates/pu_18.pdf> <.
+/templates/rs_16.pdf> <./templates/rs_17.pdf> <./templates/rs_18.pdf> <./templa
+tes/rsfs_16.pdf> <./templates/rsfs_17.pdf> <./templates/rsfs_18.pdf>] [56 <./te
+mplates/tune_16.pdf> <./templates/tune_17.pdf> <./templates/tune_18.pdf>]
+File: figs/impacts1.pdf Graphic file (type pdf)
+<use figs/impacts1.pdf>
+Package pdftex.def Info: figs/impacts1.pdf  used on input line 1423. on input l
+ine 1423.
+Package pdftex.def Info: Requested size: 317.19696pt x 260.70206pt on input lin
+e 1423.
+
+
+pdfTeX warning: pdflatex (file ./figs/impacts2.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<figs/impacts2.pdf, id=11267, pagebox=cropbox, 569.12625pt x 467.7475pt>
+File: figs/impacts2.pdf Graphic file (type pdf)
+<use figs/impacts2.pdf>
+Package pdftex.def Info: figs/impacts2.pdf  used on input line 1426. on input l
+ine 1426.
+Package pdftex.def Info: Requested size: 317.19696pt x 260.70206pt on input lin
+e 1426.
+
+
+pdfTeX warning: pdflatex (file ./figs/impacts3.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<figs/impacts3.pdf, id=11268, pagebox=cropbox, 569.12625pt x 467.7475pt>
+File: figs/impacts3.pdf Graphic file (type pdf)
+<use figs/impacts3.pdf>
+Package pdftex.def Info: figs/impacts3.pdf  used on input line 1429. on input l
+ine 1429.
+Package pdftex.def Info: Requested size: 317.19696pt x 260.70206pt on input lin
+e 1429.
+) [57
+
+
+
+ <./figs/impacts2.pdf, page is rotated 90 degrees>] [58 <./figs/impacts3.pdf, p
+age is rotated 90 degrees>] (./local.bbl [59
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+ [60]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+ (./local.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+Package rerunfilecheck Info: File `local.out' has not changed.
+(rerunfilecheck)             Checksum: 2311F01E83D9D914C411FF2D6CA6F069;1929.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
+ ) 
+Here is how much of TeX's memory you used:
+ 8872 strings out of 492995
+ 148252 string characters out of 6135074
+ 233298 words of memory out of 5000000
+ 11849 multiletter control sequences out of 15000+600000
+ 39643 words of font info for 92 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 28i,11n,30p,1667b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on local.pdf (60 pages, 4241110 bytes).
+PDF statistics:
+ 11513 PDF objects out of 12825 (max. 8388607)
+ 5067 compressed objects within 51 object streams
+ 216 named destinations out of 1000 (max. 500000)
+ 1444 words of extra memory for PDF output out of 10000 (max. 10000000)
+
